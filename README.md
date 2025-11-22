@@ -6,7 +6,7 @@ These scripts are simple templates that can be run directly or modified for your
 ## Scripts
 
 ### 1. `download_var_an.py`
-Downloads ERA5 **analysis (AN)** fields (e.g., sp, msshf)
+Downloads ERA5 **analysis (AN)** fields
 
 ### 2. `download_var_fc.py`
 Downloads ERA5 **forecast (FC)** fields. The script automatically:
